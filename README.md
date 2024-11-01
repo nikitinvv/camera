@@ -1,9 +1,9 @@
 # camera
 
 
-================
+=====
 Steps
-================
+=====
     
 0. login to NERSC Perlmutter::
     
@@ -22,6 +22,6 @@ Steps
     
     git clone https://github.com/nikitinvv/camera
     
-3. login in Jupyterhub at https://jupyter.nersc.gov/, allocate a GPU node, and select "Python phase" jupyter kernel::
+3. login in Jupyterhub at https://jupyter.nersc.gov/, allocate a GPU node, and select "Python phase" jupyter kernel
 
 4. run jupyter notebooks from camera folder 
