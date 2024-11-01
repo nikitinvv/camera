@@ -1,10 +1,6 @@
-# camera
+# CAMERA Phase
 
 
-=====
-Steps
-=====
-    
 0. login to NERSC Perlmutter::
     
     ssh <username>@perlmutter.nersc.gov
